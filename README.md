@@ -1,6 +1,6 @@
 # Bio Inspired Algorithms to Solve NP Hard Problems
 
-## For more information about each project, please click on the respective link below
+## For more information about each project, please click on the respective link below:
 
 - ### [Using Genetic Algorithm to solve TSP](https://github.com/ZahraKhatibi/TSP-Problem-Using-Genetic-Algorithm)
 - ### [Using Memetic Algorithm to solve N Queens Problem](https://github.com/ZahraKhatibi/NQueens-Problem-Using-Memetic-Algorithm)
